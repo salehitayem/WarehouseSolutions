@@ -1,3 +1,5 @@
 Flask
 Flask_SQLAlchemy
 Werkzeug
+passlib
+argon2_cffi
